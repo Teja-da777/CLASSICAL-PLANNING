@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-# Name: THEJESWARAN M
-# Register Number: 212223240168
+<h1> Name: THEJESWARAN M</h1>
+<h1>Register Number: 212223240168</h1>
 
 # Algorithm or Steps Involved:
 <ol>
